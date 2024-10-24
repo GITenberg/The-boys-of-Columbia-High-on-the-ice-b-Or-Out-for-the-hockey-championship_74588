@@ -1,0 +1,28 @@
+_repo: The-boys-of-Columbia-High-on-the-ice-b-Or-Out-for-the-hockey-championship_74588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forbes, Graham B.
+    gutenberg_agent_id: '2243'
+    url: http://www.gutenberg.org/2009/agents/2243
+description: ''
+gutenberg_issued: '2024-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74588'
+language: en
+pgterms:marc904: https://archive.org/details/boysofcolumbiaice00forb
+pgterms:marc905: 20221124113845forbes
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The boys of Columbia High on the ice : $b Or, Out for the hockey championship'
+url: http://www.gutenberg.org/ebooks/74588

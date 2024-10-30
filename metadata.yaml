@@ -1,11 +1,16 @@
 _repo: The-boys-of-Columbia-High-on-the-ice-b-Or-Out-for-the-hockey-championship_74588
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74588-h/images/cover.jpg
 creator:
   author:
     agent_name: Forbes, Graham B.
     gutenberg_agent_id: '2243'
     url: http://www.gutenberg.org/2009/agents/2243
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74588#The-boys-of-Columbia-High-on-the-ice-b-Or-Out-for-the-hockey-championship
 gutenberg_issued: '2024-10-16'
 gutenberg_type: Text
 identifiers:
